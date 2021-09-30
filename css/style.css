@@ -1,0 +1,49 @@
+ .blue-color{
+   color:#0000ff;
+    }
+  
+   body { 
+      font-family: sans-serif;
+    color:#777777;
+    line-height:26px ; 
+    }
+    
+   .half-width {
+    width:50%;
+    float:left;
+    }
+    
+    .side-img{   
+    width: 60%;
+    padding-left:25%;
+    
+   
+   }
+    
+    .primary-btn{
+    color: white;
+    background-color:#8845f4;
+    padding: 8px 26px  ;
+    border-radius: 12px ;
+    text-decoration:none;
+      }   
+   h1 { 
+   font-size: 1.5em;
+     }
+  .container {
+   padding-left:5px;
+   display:inline-block;
+    } 
+ 
+  .experiences{
+  padding:30px;
+  margin:30px ;
+  background-color:rgb(238, 251, 255);
+  border-radius:12px;
+    }
+   
+  .experience-item{
+  
+  padding:10px;
+  border-left:1px solid rgba(137, 130, 247, .2) ;
+   }
